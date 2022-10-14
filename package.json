@@ -1,0 +1,34 @@
+{
+  "name": "python-stereo",
+  "displayName": "Python Stereo",
+  "description": "Dark Theme",
+  "version": "0.0.1",
+  "publisher": "NicScott",
+  "engines": {
+    "vscode": "^1.72.0"
+  },
+  "icon": "images/icon.png",
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "python",
+    "dark",
+    "stereo"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Python Stereo",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Python Stereo-color-theme.json"
+      }
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nlscott/Python-Stereo"
+  },
+  "homepage": "https://github.com/nlscott/Python-Stereo"
+}

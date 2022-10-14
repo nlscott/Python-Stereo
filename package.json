@@ -1,11 +1,11 @@
 {
   "name": "python-stereo",
   "displayName": "Python Stereo",
-  "description": "Dark Theme",
+  "description": "Dark Theme for Python",
   "version": "0.0.2",
   "publisher": "NicScott",
   "engines": {
-    "vscode": "^1.72.0"
+    "vscode": "^1.70.0"
   },
   "icon": "images/icon.png",
   "categories": [
@@ -15,7 +15,8 @@
     "theme",
     "python",
     "dark",
-    "stereo"
+    "stereo",
+    "lime green"
   ],
   "contributes": {
     "themes": [

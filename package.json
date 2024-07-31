@@ -2,7 +2,7 @@
   "name": "python-stereo",
   "displayName": "Python Stereo",
   "description": "Dark Theme for Python",
-  "version": "0.0.4",
+  "version": "0.1.0",
   "publisher": "NicScott",
   "engines": {
     "vscode": "^1.70.0"
@@ -24,7 +24,17 @@
         "label": "Python Stereo",
         "uiTheme": "vs-dark",
         "path": "./themes/Python Stereo-color-theme.json"
-      }
+      },
+      {
+				"label": "Python Stereo Darker",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Python Stereo Darker-color-theme.json"
+			},
+      {
+				"label": "Python Stereo Darkest",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Python Stereo Darkest-color-theme.json"
+			}
     ]
   },
   "repository": {

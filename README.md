@@ -1,8 +1,14 @@
 # Python Stereo
 
-## Screenshots
 
 
+#### VisualStudio Marketplace:
+
+https://marketplace.visualstudio.com/items?itemName=NicScott.python-stereo
+
+
+
+#### Screenshots
 
 Python Stereo
 
